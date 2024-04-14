@@ -1,0 +1,7 @@
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/viewmodels/MainViewModel.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/MovieApplication.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/adapter/MovieListAdapter.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/repository/MovieRepository.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/di/AppModule.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/models/Movies.kt
+/Users/ghanshyam/Downloads/DignalOttApp-master/app/src/main/java/com/dignalott/MovieActivity.kt

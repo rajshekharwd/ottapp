@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster6.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster6.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-hdpi_ic_diagnal_logo.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-hdpi/ic_diagnal_logo.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_splash_screen.xml.flat",
+        "source": "com.dignalott.app-main-38:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxxhdpi_ic_diagnal_logo.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxxhdpi/ic_diagnal_logo.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxhdpi_ic_diagnal_logo.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxhdpi/ic_diagnal_logo.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_nav_bar.png.flat",
+        "source": "com.dignalott.app-main-38:/drawable/nav_bar.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.dignalott.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dignalott.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxxhdpi_ic_diagnal_logo_round.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxxhdpi/ic_diagnal_logo_round.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster2.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster2.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/layout_item_card.xml.flat",
+        "source": "com.dignalott.app-main-38:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-hdpi_ic_diagnal_logo_round.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-hdpi/ic_diagnal_logo_round.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster9.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster9.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster7.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster7.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xhdpi_ic_diagnal_logo_round.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xhdpi/ic_diagnal_logo_round.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_back.png.flat",
+        "source": "com.dignalott.app-main-38:/drawable/back.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster3.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster3.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_gradient.xml.flat",
+        "source": "com.dignalott.app-main-38:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/menu_search_menu.xml.flat",
+        "source": "com.dignalott.app-main-38:/menu/search_menu.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dignalott.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/xml_searchable.xml.flat",
+        "source": "com.dignalott.app-main-38:/xml/searchable.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-mdpi_ic_diagnal_logo.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-mdpi/ic_diagnal_logo.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster1.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster1.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xhdpi_ic_diagnal_logo.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xhdpi/ic_diagnal_logo.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.dignalott.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster4.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster4.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxxhdpi_ic_diagnal_logo_foreground.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxxhdpi/ic_diagnal_logo_foreground.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-hdpi_ic_diagnal_logo_foreground.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-hdpi/ic_diagnal_logo_foreground.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-mdpi_ic_diagnal_logo_round.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-mdpi/ic_diagnal_logo_round.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_ic_diagnal_logo.xml.flat",
+        "source": "com.dignalott.app-main-38:/drawable/ic_diagnal_logo.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-anydpi-v26_ic_diagnal_logo_round.xml.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-anydpi-v26/ic_diagnal_logo_round.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_search.png.flat",
+        "source": "com.dignalott.app-main-38:/drawable/search.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_search_cancel.png.flat",
+        "source": "com.dignalott.app-main-38:/drawable/search_cancel.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxhdpi_ic_diagnal_logo_foreground.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxhdpi/ic_diagnal_logo_foreground.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster5.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster5.jpg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-anydpi-v26_ic_diagnal_logo.xml.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-anydpi-v26/ic_diagnal_logo.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-mdpi_ic_diagnal_logo_foreground.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-mdpi/ic_diagnal_logo_foreground.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dignalott.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xhdpi_ic_diagnal_logo_foreground.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xhdpi/ic_diagnal_logo_foreground.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/mipmap-xxhdpi_ic_diagnal_logo_round.png.flat",
+        "source": "com.dignalott.app-main-38:/mipmap-xxhdpi/ic_diagnal_logo_round.png"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_diagnal_logo.jpeg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/diagnal_logo.jpeg"
+    },
+    {
+        "merged": "com.dignalott.app-merged_res-36:/drawable_poster8.jpg.flat",
+        "source": "com.dignalott.app-main-38:/drawable/poster8.jpg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.dignalott.app-mergeDebugResources-35:/layout/item_card.xml",
+        "source": "com.dignalott.app-main-38:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.dignalott.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.dignalott.app-main-38:/layout/activity_main.xml"
+    }
+]
